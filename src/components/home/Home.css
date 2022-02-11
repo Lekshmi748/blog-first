@@ -1,0 +1,19 @@
+.home{
+    margin-top: 10%;
+    margin-left: 25%;
+    font-size: 45px;
+}
+
+.home h1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.home p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(6, 12, 100);
+    margin-left: 650px;
+    font-size:x-large;
+    
+}
